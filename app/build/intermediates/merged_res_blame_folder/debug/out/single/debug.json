@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_mypins.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/mypins.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_logout.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/logout.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "com.example.aahaarapp-pngs-22:/drawable-anydpi-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_bthree.jpg.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/bthree.jpg"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.aahaarapp-main-29:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.aahaarapp-main-29:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_loggout.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/loggout.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/color_button_background_color.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/color/button_background_color.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/font_blinker_regular.ttf.flat",
+        "source": "com.example.aahaarapp-main-29:/font/blinker_regular.ttf"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/layout_activity_food_map.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/layout/activity_food_map.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_rcv1.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/rcv1.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "com.example.aahaarapp-pngs-22:/drawable-anydpi-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_twitter.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/twitter.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/layout_activity_main.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.aahaarapp-main-29:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.aahaarapp-pngs-22:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_history.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/history.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.aahaarapp-main-29:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/layout_activity_history.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_contact.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/contact.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_lgout.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/lgout.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/layout_activity_my_pin.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/layout/activity_my_pin.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_map.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/map.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.aahaarapp-main-29:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_bone.jpg.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/bone.jpg"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_gradient.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/gradient.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/layout_activity_donate.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/layout/activity_donate.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_rcv.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/rcv.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/layout_activity_receive.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/layout/activity_receive.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/layout_userdata.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/layout/userdata.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/font_abel.ttf.flat",
+        "source": "com.example.aahaarapp-main-29:/font/abel.ttf"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.aahaarapp-pngs-22:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/font_blinker_bold.ttf.flat",
+        "source": "com.example.aahaarapp-main-29:/font/blinker_bold.ttf"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/font_opensans.ttf.flat",
+        "source": "com.example.aahaarapp-main-29:/font/opensans.ttf"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.aahaarapp-main-29:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.aahaarapp-pngs-22:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_recieve.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/recieve.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "com.example.aahaarapp-pngs-22:/drawable-anydpi-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_round_background.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/round_background.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.aahaarapp-pngs-22:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/font_comfort.ttf.flat",
+        "source": "com.example.aahaarapp-main-29:/font/comfort.ttf"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/font_exo.ttf.flat",
+        "source": "com.example.aahaarapp-main-29:/font/exo.ttf"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.aahaarapp-pngs-22:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/color_edit_text_box_border.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/color/edit_text_box_border.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/menu_drawer.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/menu/drawer.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.aahaarapp-main-29:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/color_button_text_color.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/color/button_text_color.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_bfore.jpg.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/bfore.jpg"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_background_splashscreen.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/background_splashscreen.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_button_gradient.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/button_gradient.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/layout_activity_logup.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/layout/activity_logup.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_about.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/about.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_splash.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/splash.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/layout_activity_signup.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/font_opensans_regular.ttf.flat",
+        "source": "com.example.aahaarapp-main-29:/font/opensans_regular.ttf"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/layout_activity_contact.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/layout/activity_contact.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_bthre.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/bthre.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/font_opensans_light.ttf.flat",
+        "source": "com.example.aahaarapp-main-29:/font/opensans_light.ttf"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/font_nunitosans_bold.ttf.flat",
+        "source": "com.example.aahaarapp-main-29:/font/nunitosans_bold.ttf"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_button_rounded.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/button_rounded.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/font_blinker_light.ttf.flat",
+        "source": "com.example.aahaarapp-main-29:/font/blinker_light.ttf"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.aahaarapp-main-29:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_bthreee.jpg.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/bthreee.jpg"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/menu_activity_main_drawer.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_btwo.jpg.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/btwo.jpg"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.aahaarapp-pngs-22:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/font_nunitosans_light.ttf.flat",
+        "source": "com.example.aahaarapp-main-29:/font/nunitosans_light.ttf"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_facebook.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/facebook.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.aahaarapp-pngs-22:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_add.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/add.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.aahaarapp-main-29:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_aahar.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/aahar.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.aahaarapp-pngs-22:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.aahaarapp-main-29:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_three.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/three.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_btwoo.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/btwoo.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/font_nunitosans_semibold.ttf.flat",
+        "source": "com.example.aahaarapp-main-29:/font/nunitosans_semibold.ttf"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/layout_activity_about.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_instagram.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/instagram.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_six.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/six.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_donate.png.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/donate.png"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/drawable_transparent_bg_bordered.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/drawable/transparent_bg_bordered.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/layout_singlerow.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/layout/singlerow.xml"
+    },
+    {
+        "merged": "com.example.aahaarapp-merged_res-27:/layout_activity_landingpage.xml.flat",
+        "source": "com.example.aahaarapp-main-29:/layout/activity_landingpage.xml"
+    }
+]

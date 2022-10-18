@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.aahaarapp-mergeDebugResources-25:/values-w550dp-land-v13/values-w550dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nirav\\.gradle\\caches\\transforms-3\\5a2a3ad0546b1d628de4295791ca6e6a\\transformed\\material-1.3.0\\res\\values-w550dp-land-v13\\values-w550dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}
